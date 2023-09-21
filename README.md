@@ -140,9 +140,12 @@ The proposed method in this repository provides DP protection for the private da
 - [Dynamic Recognition of Speakers for Consent
 Management by Contrastive Embedding Replay](https://arxiv.org/abs/2205.08459)
 
-Note: The paper mentioned above has been recently accepted for publication with the "DOI:" in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Please cite the paper using the following format in the future if you are using the current repository:
+Note: The paper mentioned above has been recently accepted for publication with the "DOI:10.1109/TNNLS.2023.3317493" in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Please cite the paper using the following format in the future if you are using the current repository:
 
-[Authors]."[Title]." IEEE Transactions on Neural Networks and Learning Systems, vol. [Volume], no. [Issue], pp. [Page range], [Month] [Year]. DOI:[DOI]
+Arash Shahmansoori and Utz Roedig."Dynamic Recognition of Speakers for Consent
+Management by Contrastive Embedding Replay." IEEE Transactions on Neural Networks and Learning Systems, vol. [Volume], no. [Issue], pp. [Page range], [Month] [2023]. DOI:10.1109/TNNLS.2023.3317493
+
+(corresponding author: Arash Shahmansoori)
 
 ## License
 
