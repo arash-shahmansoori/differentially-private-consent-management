@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: differentially-private-consent-management
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Arash
+    family-names: Shahmansoori
+    email: arash.mansoori65@gmail.com
+    affiliation: Research Engineer
+    orcid: 'https://orcid.org/0000-0001-5126-8005'
+abstract: >-
+  This code-base supports differential privacy for speaker
+  recognition in voice assistant systems using the private
+  data and a small portion of publicly available data. In
+  particular, it addresses the differential privacy (DP) for
+  speaker recognition in voice assistant systems using the
+  private data and a small portion of publicly available
+  data for a composite bucket of speakers. A composite
+  bucket is comprised of a bucket or buckets of speakers.
+keywords:
+  - Voice Assistant Systems
+  - Speaker Recognition
+  - Adversarial Training
+  - Differential Private Fine-Tuning
+  - Composite-Bucket Training
+license: MIT
